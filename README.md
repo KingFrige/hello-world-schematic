@@ -36,6 +36,8 @@ Or, you can specify the name option explicitly:
 
 ```bash
 schematics .:hello-world --dry-run=false --name=YOUR_NAME_HERE
+
+schematics .:test --dry-run=false --name=YOUR_NAME_HERE
 ```
 
 ## Unit Tests

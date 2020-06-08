@@ -5,6 +5,11 @@
       "description": "A blank schematic.",
       "factory": "./hello-world/index#helloWorld",
       "schema": "./hello-world/schema.json"
+    },
+    "test": {
+      "description": "A test schematic.",
+      "factory": "./test/index#test",
+      "schema": "./test/schema.json"
     }
   }
 }
